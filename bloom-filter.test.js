@@ -1,4 +1,4 @@
-const { BloomFilter } = require("./bloom-filter-exemplo");
+const { BloomFilter } = require("./bloom-filter-desafio");
 
 describe("BloomFilter", () => {
   test("Deve adicionar uma palavra ao bloom filter", () => {
